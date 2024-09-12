@@ -11,7 +11,6 @@ This project focuses on predicting vehicle maintenance needs based on various fe
 - [Visualizations](#visualizations)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 
